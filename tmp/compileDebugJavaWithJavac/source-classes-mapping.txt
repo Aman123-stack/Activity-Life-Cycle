@@ -1,0 +1,2 @@
+com/internshala/activitylifecycle/BuildConfig.java
+ com.internshala.activitylifecycle.BuildConfig

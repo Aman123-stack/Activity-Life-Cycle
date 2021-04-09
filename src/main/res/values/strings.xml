@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Avengers </string>
+    <string name="log_in">log in</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="register_yourself">register yourself</string>
+    <string name="enter_your_number">enter your number</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="tony_starkindustries_com">tony@starkindustries.com</string>
+    <string name="_91_9937800632">+91 9937800632</string>
+    <string name="todo">TODO</string>
+    <string name="steve_rogers">Steve Rogers</string>
+    <string name="steve_rogers_com">steve@rogers.com</string>
+    <string name="_91_9937618743">+91 9937618743</string>
+    <string name="thor">Thor</string>
+    <string name="thor_starkindustries_com_android_textcolor">thor@starkindustries.com android:textColor=</string>
+    <string name="thor_starkindustries_com">thor@starkindustries.com</string>
+    <string name="_91_44455555">+91 44455555</string>
+    <string name="bruce_starkindustries_com">bruce@starkindustries.com</string>
+    <string name="thor_odinson">Thor Odinson</string>
+    <string name="_91_33355555">+91 33355555</string>
+    <string name="dr_bruce_banner">Dr Bruce Banner</string>
+    <string name="preference_file_name">Avengers Preferences</string>
+</resources>
